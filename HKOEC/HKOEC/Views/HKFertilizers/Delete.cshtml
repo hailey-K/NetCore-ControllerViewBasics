@@ -1,0 +1,43 @@
+@model HKOEC.Models.Fertilizer
+
+@{
+    ViewData["Title"] = "Delete Fertilizer";
+}
+
+<h2>Delete Fertilizer</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Fertilizer</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <input type="hidden" asp-for="FertilizerName" />
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FertilizerName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FertilizerName)
+        </dd>
+    
+        <dt>
+            @Html.DisplayNameFor(model => model.Oecproduct)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Oecproduct)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Liquid)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Liquid)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            <a asp-action="Index">Back to List</a>
+        </div>
+    </form>
+</div>

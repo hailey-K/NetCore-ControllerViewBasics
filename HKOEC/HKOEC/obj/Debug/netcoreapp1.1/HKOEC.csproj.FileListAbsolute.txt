@@ -1,0 +1,12 @@
+C:\Users\Kkim8301\Desktop\HKOEC\HKOEC\bin\Debug\netcoreapp1.1\HKOEC.deps.json
+C:\Users\Kkim8301\Desktop\HKOEC\HKOEC\bin\Debug\netcoreapp1.1\HKOEC.runtimeconfig.json
+C:\Users\Kkim8301\Desktop\HKOEC\HKOEC\bin\Debug\netcoreapp1.1\HKOEC.runtimeconfig.dev.json
+C:\Users\Kkim8301\Desktop\HKOEC\HKOEC\bin\Debug\netcoreapp1.1\HKOEC.dll
+C:\Users\Kkim8301\Desktop\HKOEC\HKOEC\bin\Debug\netcoreapp1.1\HKOEC.pdb
+C:\Users\Kkim8301\Desktop\HKOEC\HKOEC\obj\Debug\netcoreapp1.1\HKOEC.csprojResolveAssemblyReference.cache
+C:\Users\Kkim8301\Desktop\HKOEC\HKOEC\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\Kkim8301\Desktop\HKOEC\HKOEC\obj\Debug\netcoreapp1.1\HKOEC.AssemblyInfo.cs
+C:\Users\Kkim8301\Desktop\HKOEC\HKOEC\obj\Debug\netcoreapp1.1\HKOEC.dll
+C:\Users\Kkim8301\Desktop\HKOEC\HKOEC\obj\Debug\netcoreapp1.1\HKOEC.pdb
+C:\Users\Kkim8301\Desktop\HKOEC\HKOEC\obj\Debug\netcoreapp1.1\HKOEC.csproj.CoreCompileInputs.cache
+C:\Users\Kkim8301\Desktop\HKOEC\HKOEC\obj\Debug\netcoreapp1.1\HKOEC.AssemblyInfoInputs.cache
